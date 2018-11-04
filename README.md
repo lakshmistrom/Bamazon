@@ -7,4 +7,5 @@ The Bamazon application is an Amazon like storefront. The app will take in order
     1. Please input the id of the product you would like to buy
     2. How many units would you like to buy
 3. If there is enough items in the inventory the total for the transaction will be presented and terminate the program.
-![bamazon app demo](bamazonApp.mov "Bamazon App Demo")
+![bamazon app demo](https://youtu.be/WOHBsrAsPDA "Bamazon App Demo")
+[![bamazon app demo](bamazon.jpg)](https://youtu.be/WOHBsrAsPDA "Bamazon App Demo")
